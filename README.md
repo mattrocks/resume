@@ -57,4 +57,4 @@ Member
 | | | IBM COgnos BI | Asciidoc |
 | | | AsciidocFX | LaTex |
 
-
+[Sample 1](https://github.com/mattrocks/resume/blob/66b790f58066d5f1d003763eb158ffc0071ec6d7/SampleA_R3ciprocity_GettingStarted.html)
