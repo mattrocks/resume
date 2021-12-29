@@ -57,4 +57,8 @@ Member
 | | | IBM COgnos BI | Asciidoc |
 | | | AsciidocFX | LaTex |
 
-[Sample 1](https://github.com/mattrocks/resume/blob/8224eee3f855b7222410352b00f5e5ba35be9a34/MatthewMurphy_TechWriter_Samples.zip)
+## Writing Samples
+A zip archive containing two writing samples is available for download [here](https://github.com/mattrocks/resume/blob/8224eee3f855b7222410352b00f5e5ba35be9a34/MatthewMurphy_TechWriter_Samples.zip).
+The following files are included:
+* SampleA_R3ciprocity_GettingStarted.html
+* SampleB_SurveyMonkey_Instructions.mhtml
