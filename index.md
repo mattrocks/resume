@@ -18,7 +18,7 @@ _Eagan, MN – (Apr 2016 – Jan 2021)_
 _U.S. Customs and Border Protection, Minneapolis, MN – (Jul 2007 - Apr 2016)_
 * Routinely wrote and updated Standard Operating Procedures (SOP’s) and instructional material. 
 * Created course material for in-house IBM Cognos self-service reporting tools. Developed distinct tracks for each user group, resulting in better overall use of self-service tools and freeing developers from routine reporting tasks
-* Documented manual and automated processes, including the first end-to-end process map for U.S. CBP’s pre-employment medical screening process. The process map and accompanying report became a template for future process improvement initiative. 
+* Documented manual and automated processes, including the first end-to-end process map for U.S. CBP’s pre-employment medical screening process. The process map and accompanying report became a template for future process improvement initiatives. 
 * Documented user stories and wrote user acceptance tests for a multiyear software migration. The successful migration project was awarded recognition from the U.S. CBP Commissioner’s office. 
 
 ### QC/TPV Specialist 
