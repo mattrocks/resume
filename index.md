@@ -58,8 +58,9 @@ Member
 | | | AsciidocFX | LaTex |
 
 ## Writing Samples
-A zip archive containing two writing samples can be found [here](https://github.com/mattrocks/resume/blob/8224eee3f855b7222410352b00f5e5ba35be9a34/MatthewMurphy_TechWriter_Samples.zip).
-
-The following files are included:
+A [zip archive containing writing samples](https://github.com/mattrocks/resume/raw/main/MatthewMurphy_TechWriter_Samples.zip) is available for download. 
+Two files are included:
 * SampleA_R3ciprocity_GettingStarted.html
 * SampleB_SurveyMonkey_Instructions.mhtml
+
+[Contact me](mailto:matt@mattmurphy.rocks) for additional samples or references.
