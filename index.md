@@ -1,10 +1,11 @@
 # Matthew Murphy
+
 [matt@mattmurphy.rocks](mailto:matt@mattmurphy.rocks) | 651-204-3733 | [bitly.com/mattrocks_writes](bitly.com/mattrocks_writes)
 
 I am a technical writer and digital accessibility advocate with nearly 10 years experience in federal human resources. 
 Hire me to proofread and edit business and technical documents, prepare English texts for translation, or ensure that your written message is both accessible and inclusive. 
 
-_[Download](https://github.com/mattrocks/resume/raw/main/Resume_TechWriter_Updated2021215%20(2).pdf) my resume as a PDF._
+_[PDF version](https://github.com/mattrocks/resume/raw/main/Resume_TechWriter_Updated2021215%20(2).pdf)_
 
 ## Professional Experience
 ### Freelance Technical Writer
